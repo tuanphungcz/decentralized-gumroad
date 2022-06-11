@@ -1,0 +1,9 @@
+export { default as Footer } from "./Footer";
+export { default as InputField } from "./InputField";
+export { default as Loader } from "./Loader";
+export { default as Modal } from "./Modal";
+export { default as ModalContent } from "./ModalContent";
+export { default as ProductItem } from "./ProductItem";
+export { default as ProductTab } from "./ProductTab";
+export { default as DownloadTab } from "./DownloadTab";
+export { default as Tabs } from "./Tabs";
